@@ -1,0 +1,32 @@
+
+Property
+{
+	f_MalterlibQtModulesCalcTemplate function(string _RepoName) [type(CEntity)] = []
+	f_MalterlibQtModulesCalcTemplate =+ `qt_@(_RepoName)`
+
+	MalterlibQtModules define [string] = []
+	MalterlibQtModules =+ [
+		"qtbase"
+		, "qtdeclarative"
+		, "qtimageformats"
+		, "qtquickcontrols2"
+
+		, "qttools"
+		, "qtsvg"
+		, "qtscxml"
+		, "qtactiveqt"
+		, "qtgraphicaleffects"
+	]
+}
+
+%Repository MalterlibQtModules->Unique()->ForEach("f_MalterlibQtModulesCalcTemplate")
+{
+	Repository
+	{
+		Submodule false
+		Type "External"
+		ConvertUnderscoreToPath true
+		Remotes =+ {Name: "upstream", URL: `https://github.com/qt/@(this.Identity->Replace('qt_', '')).git`, Write: false}
+		DefaultUpstreamBranch "dev"
+	}
+}
