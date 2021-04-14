@@ -1,0 +1,74 @@
+{
+	"qt5compat": {
+		"Hash": "de97b9dc07ecddf29262988e33d195b389415d42"
+	},
+	"qtactiveqt": {
+		"Hash": "9fca5571fb6b9a2c0e0fdb65aafbf73c936918aa"
+	},
+	"qtandroidextras": {
+		"Hash": "9609e793886b5caa48a8173d50d84e2e17623ded"
+	},
+	"qtbase": {
+		"Hash": "e227017f645c675f527a1659452aed8f24ecfbd4"
+	},
+	"qtconnectivity": {
+		"Hash": "e72cc9340173e438d6366aec82ae52f47ea5cb53"
+	},
+	"qtdeclarative": {
+		"Hash": "b60690bdc6324e691f78cf62eb847989492c5579"
+	},
+	"qtdoc": {
+		"Hash": "72e45e25a8a321298685ca035a5a5669fe39c5d4"
+	},
+	"qtgraphicaleffects": {
+		"Hash": "2910bb5d11da4261a88bd57c7251d86c51bb57d3"
+	},
+	"qtimageformats": {
+		"Hash": "934200d923db28f41f0f05e5cd72e311db768852"
+	},
+	"qtlocation": {
+		"Hash": "55739ad4128fc70ca9045fba08e8d0f7b52e28c2"
+	},
+	"qtmultimedia": {
+		"Hash": "6d2c0dd4ecd437baedea43c92f47ec8f5f268514"
+	},
+	"qtqa": {
+		"Hash": "ffde9ae39c7461fe06667ef6b733c79b8780ab06"
+	},
+	"qtquickcontrols": {
+		"Hash": "735a09e8d6643ed872bbc2ca5ebb47c0a544cc38"
+	},
+	"qtquickcontrols2": {
+		"Hash": "0be5a9394885b359f0cd76452f74127830884c8b"
+	},
+	"qtrepotools": {
+		"Hash": "9d18158037a7854bce0b167f69dfbc36539e1c0b"
+	},
+	"qtscxml": {
+		"Hash": "45b650531598c070aa64be6b690a6ee1fc58f9d0"
+	},
+	"qtserialport": {
+		"Hash": "1aaaa4997f0deb69af76793620443218ab0459f3"
+	},
+	"qtshadertools": {
+		"Hash": "54ca021ed40e60be564103c6597aac34c616e021"
+	},
+	"qtsvg": {
+		"Hash": "bba0e7e7d06f3cc67b2e3cfb3c8e8eac0f944668"
+	},
+	"qttools": {
+		"Hash": "4799ab3c62eb63d334b2bd6cd3b780df8a98b9d4"
+	},
+	"qttranslations": {
+		"Hash": "693a5412212fc6b696c74411c7c3e8e35585a5cd"
+	},
+	"qtwebchannel": {
+		"Hash": "9d21b49006ee6be2991988280ad811010ae28111"
+	},
+	"qtwebengine": {
+		"Hash": "f8527fa9427984082cd425d304d29fd030ff5b1a"
+	},
+	"qtwebsockets": {
+		"Hash": "69b87fc663f86b8cdeddd954a8a8449f783598b5"
+	}
+}
