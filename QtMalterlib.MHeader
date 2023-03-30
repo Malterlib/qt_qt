@@ -19,7 +19,7 @@ Property
 	]
 }
 
-%Repository MalterlibQtModules->Unique()->ForEach("f_MalterlibQtModulesCalcTemplate")
+%Repository MalterlibQtModules->Unique()->ForEach(&f_MalterlibQtModulesCalcTemplate)
 {
 	Repository
 	{
