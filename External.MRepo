@@ -9,7 +9,7 @@
 		"Hash": "9609e793886b5caa48a8173d50d84e2e17623ded"
 	},
 	"qtbase": {
-		"Hash": "d5090f64ad66ebefb5d8e76c8db806d6a0a8b204"
+		"Hash": "ca2c2d44de146a0ceef00067a675c4ed2517954d"
 	},
 	"qtconnectivity": {
 		"Hash": "e72cc9340173e438d6366aec82ae52f47ea5cb53"
@@ -51,7 +51,7 @@
 		"Hash": "1aaaa4997f0deb69af76793620443218ab0459f3"
 	},
 	"qtshadertools": {
-		"Hash": "8354edb19012d4ffda1da8678a840659574f3f1c"
+		"Hash": "4e607dd60be0120b2937b41f8e064f84be1f3b77"
 	},
 	"qtsvg": {
 		"Hash": "4074c493c6600a876f65f7f6f7d3ba22c37d47ba"
