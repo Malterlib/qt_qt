@@ -9,13 +9,13 @@
 		"Hash": "9609e793886b5caa48a8173d50d84e2e17623ded"
 	},
 	"qtbase": {
-		"Hash": "89b7fa647bc41e3794adb378e6ddbd3d11a7e7c3"
+		"Hash": "464d007fc1bf32771ca879d1f292d040c90e3b72"
 	},
 	"qtconnectivity": {
 		"Hash": "e72cc9340173e438d6366aec82ae52f47ea5cb53"
 	},
 	"qtdeclarative": {
-		"Hash": "b64dc1474ea97aa46fce86b70bc34046e442beb9"
+		"Hash": "54423d42fca5cba16206caa1cbc10c353cb218e8"
 	},
 	"qtdoc": {
 		"Hash": "72e45e25a8a321298685ca035a5a5669fe39c5d4"
