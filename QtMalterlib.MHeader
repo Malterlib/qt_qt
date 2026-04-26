@@ -28,6 +28,9 @@ Property
 		Type "External"
 		ConvertUnderscoreToPath true
 		Remotes =+ {Name: "upstream", URL: `https://github.com/qt/@(this.Identity->Replace('qt_', '')).git`, Write: false}
+		{
+			!!MalterlibAddUpstreams true
+		}
 		DefaultUpstreamBranch "dev"
 	}
 }
